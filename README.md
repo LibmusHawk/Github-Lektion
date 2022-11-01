@@ -1,3 +1,4 @@
 # Github-Lektion
 våra första filer i vår nya repo👍
-vau vau
+
+Idag är det fint väder :)
